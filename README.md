@@ -1,2 +1,23 @@
 # IT-Internship-Work
-This repository is created to share my learning journey in Information Technology. I will be uploading my practice codes, small programs, and notes as I continue to improve my skills in C++ and other IT tools. My goal is to build a strong foundation and gain hands-on experience through online internships and real-world projects.
+
+Welcome to my GitHub repository!  
+
+## About Me
+- Bachelor's student in Information Technology  
+- Passionate about learning programming and IT tools  
+- Currently focusing on C++ and MS Office  
+
+## Skills
+- C++ Programming  
+- MS Office (Word, Excel, PowerPoint)  
+- Problem Solving & Logical Thinking  
+
+## Goals
+- Improve my coding skills through practice  
+- Gain experience via online internships  
+- Contribute to real-world IT projects  
+
+## Contact
+- Email: rijafatima10266@email.com  
+- LinkedIn: https://www.linkedin.com/in/rija-fatima  
+
